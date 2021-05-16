@@ -22,6 +22,7 @@ params:
     - title: FAQ
       url: /faq
       style: link
+  domain: 'https://devxsd-1ac7d.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
